@@ -1,0 +1,10 @@
+C:\Users\dawid\source\repos\Debtor.Core\bin\Debug\netstandard2.1\Debtor.Core.deps.json
+C:\Users\dawid\source\repos\Debtor.Core\bin\Debug\netstandard2.1\Debtor.Core.dll
+C:\Users\dawid\source\repos\Debtor.Core\bin\Debug\netstandard2.1\Debtor.Core.pdb
+C:\Users\dawid\source\repos\Debtor.Core\obj\Debug\netstandard2.1\Debtor.Core.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Debtor.Core\obj\Debug\netstandard2.1\Debtor.Core.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Debtor.Core\obj\Debug\netstandard2.1\Debtor.Core.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Debtor.Core\obj\Debug\netstandard2.1\Debtor.Core.dll
+C:\Users\dawid\source\repos\Debtor.Core\obj\Debug\netstandard2.1\Debtor.Core.pdb
+C:\Users\dawid\source\repos\Debtor.Core\obj\Debug\netstandard2.1\Debtor.Core.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Debtor.Core\obj\Debug\netstandard2.1\Debtor.Core.GeneratedMSBuildEditorConfig.editorconfig
